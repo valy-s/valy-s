@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend Development
-- 📫 How to reach me valeriu.stanculescu@gmail.com
+- 📫 How to reach me https://valeriustanculescu.netlify.app/
 
 <!---
 valy-s/valy-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
